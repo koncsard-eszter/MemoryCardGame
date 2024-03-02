@@ -1,0 +1,106 @@
+pata-paw
+napia-proboscis
+coco-coconut
+vientre-belly
+ombligo-belly button
+puño-fist
+pulgar-thumb
+índice-index
+cráneo-skull
+vértebra-vertebra
+páncreas-pancreas
+tímpano-eardrum
+calvicie-baldness
+entradas-tickets
+cejijunto-eyebrow
+bizco-squinting
+piel cetrina-sallow skin
+patas de gallo-Crow's feet
+escuálido-scrawny
+enjuto-lean
+enclenque-sickly
+grueso-thick
+obeso-obese
+rollizo-plump
+gordinflón-fatty
+fofo-flabby
+paticorto-short-legged
+desgarbado-ungainly
+jorobado-hunchback
+hospitalidad-hospitality
+prepotencia-prepotency
+discreción-discretion
+austeridad-austerity
+humildad-modesty
+indiferencia-indifference
+susceptibilidad-susceptibility
+vulnerabilidad-vulnerability
+coraje-courage
+hospitalario-hospitable
+prepotente-prepotent
+versátil-versatile
+austero-austere
+frívolo-frivolous
+humilde-humble
+íntegro-full
+hipocondriaco-hypochondriac
+altruista-altruistic
+pócima-potion
+potingue-potingue
+combinado-combined
+néctar-nectar
+tisana-tisane
+destilería-distillery
+licorería-liquor store
+tonel-barrel
+barrica-cask
+vino de mesa-wine table
+fermentar-ferment
+destilar-distill
+echar un trago-take a drink
+requesón-curd
+lechal-suckling
+cochinillo-pig
+tirabeque-snow peas
+mízcalo-mizcalo
+níscalo-chanterelle
+anacardo-cashew
+cuscurro-crouton
+migaja-crumb
+perdiz-partridge
+codorniz-quail
+papaya-papaya
+maracuyá-passion fruit
+lichi-lychee
+centollo-crab
+cigala-crayfish
+percebe-barnacle
+chirlas-chirlas
+acelgas-chard
+col-cabbage
+alubias-bean
+pepita-nugget
+gajo-segment
+apetitoso-appetizing
+empalagoso-cloying
+dulzón-sweet
+insulso-bland
+insípido-tasteless
+acidez-acidity
+dulzor-sweetness
+amargor-bitterness
+espumadera-skimmer
+pasapurés-potato masher
+rallador-grater
+escurridor-wringer
+bayeta-baize
+estropajo-scourer
+lejía-bleach
+limpiacristales-glass cleaner
+lavado-washed
+secado-drying
+planchado-ironing
+centrifugado-centrifuge
+desinfectar-disinfect
+frotar-rub
+aclarar-clarify
