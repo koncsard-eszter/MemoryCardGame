@@ -1,0 +1,139 @@
+Hola-hello
+Adiós-goodbye
+Por favor-please
+Gracias-thank you
+Lo siento-sorry
+Salud-bless you
+Sí-yes
+No-no
+¿entiende(s)? -do you understand?
+no entiendo - i don’t understand
+no (lo) sé - i don’t know
+no tengo ni idea - i have no idea
+no hablo español - i don’t speak spanish
+estoy perdido(a) - i’m lost
+¡de nada! - you’re welcome! / no problem!
+¡perdon! - excuse me!
+¡disculpe! - excuse me!
+¿qué…? - what?
+¿quién…? - who?
+¿cuándo…? - when?
+¿dónde…? - where?
+¿por qué…? - why?
+¿cuál? - which?
+¿cómo…? - how?
+Yo - I
+tú (informal) - you
+usted (formal) - you
+él - he
+ella - she
+nosotros/nosotras - we
+ustedes - you all
+ellos - they
+ellas(females) - they
+buenos días - good morning
+buenas tardes - good afternoon
+buenas noches - good evening / good night
+¡feliz cumpleaños! - happy birthday!
+¡felicitaciones! - congratulations!
+¡diviértete! - have fun!
+¡buen provecho! - bon appetit!
+¡bienvenidos! - welcome!
+chao - goodbye
+hasta mañana - see you tomorrow
+nos vemos - see you (informal)
+¡cuídate mucho! - take care!
+¡tenga un buen día! - have a nice day!
+¡hasta luego! - see you soon!
+¡buen viaje! - have a good trip!
+Domingo - Sunday
+Lunes - Monday
+Martes - Tuesday
+Miércoles - Wednesday
+Jueves - Thursday
+Viernes - Friday
+Sabado - Saturday
+Enero - January
+Febrero - February
+Marzo - March
+Abril - April
+Mayo - May
+Junio - June
+Julio - July
+Agosto - August
+Septiembre - September
+Octubre - October
+Noviembre - November
+Diciembre - December
+anteayer - day before yesterday
+ayer - yesterday
+el año - year
+el día - day
+el mes - month
+el siglo - century
+la hora - hour
+hoy - today
+la semana - week
+mañana - tomorrow
+mañana - morning
+medianoche - midnight
+mediodia - noon
+el minuto - minute
+la noche - night
+el pasado mañana - day after tomorrow
+los segundos - seconds
+la tarde - afternoon
+el padre - father
+el papá -  dad
+la madre - mother
+la mamá - mom
+el hermano - brother
+la hermana - sister
+el hijo  - son
+la hija  - daughter
+la familia cercana - close family
+el abuelo  - grandfather
+la abuela  - grandmother
+el bisabuelo - great-grandfather
+la bisabuela - great-grandmother
+la nieta - granddaughter
+el nieto - grandson
+el tío - uncle
+la tía - aunt
+el tío abuelo - great-uncle
+la tía abuela - great-aunt
+el primo - cousin (male)
+la prima - cousin (female)
+mis parientes - my relatives
+abrazar - to hug
+amar - to love
+reír - to laugh
+perdonar - to forgive
+empezar -  to start
+seguir - to follow
+abrir -  to open
+buscar - to search
+cantar - to sing
+cerrar - to close
+destruir - to destroy
+dormir - to sleep
+encontrar - to find
+esconder - to hide
+esperar - to wait
+faltar - to miss
+hacer - to do
+intentar - to try
+llamar - to call
+llevar - to take
+llorar - to cry
+luchar - to fight
+mentir - to lie
+odiar - to hate
+recibir - to receive
+reconocer - to recognize
+robar - to steal
+salvar - to save
+sonreír - to smile
+soñar - to dream
+tomar - to take
+Vivir - to live

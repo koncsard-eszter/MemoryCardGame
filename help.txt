@@ -1,0 +1,17 @@
+Hi!
+If you are here, I suppose that you want to learn Spanish.
+In addition to learning a language, you can also test your memory with this memory game.
+First, select the language level which you want to practice, and then the number of the cards.
+On the game board, there are word pairs; one word is in English and the other in Spanish.
+Begin the game by flipping a card,
+then try to find its match among the other cards.
+If you can't find a pair, the flipped cards will be turned back face down again.
+Try to remember these words, as it becomes easier to find pairs the more you play.
+When you find a pair, it is removed from the board,
+and when you find all the pairs, you have completed the level.
+Your score calculation will be based on factors such as time,
+number of cards, language level, and the number of mistakes you make.
+
+Have a good game, and I hope you will learn a lot!
+
+Thanks for using my program.

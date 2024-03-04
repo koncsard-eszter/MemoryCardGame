@@ -1,0 +1,104 @@
+músculo-muscle
+hueso-bone
+piel-fur/skin
+corazón-heart
+pulmón-lung
+cuello-neck
+hombros-shoulders
+pecho-chest
+cintura-waist
+barriga-belly
+rodilla-knee
+tobillo-ankle
+codo-elbow
+muñeca-doll
+frente-forehead
+mejilla-cheeks
+barbilla-chin
+ceja-eyebrows
+pestaña-eyelash
+cana-cane
+uña-nail
+cerebro-brain
+hígado-liver
+riñón-kidney
+intestino-intestine
+esqueleto-skeleton
+column-column
+costilla-rib
+arteri-arteria
+tendón-sinew
+caminar-walk
+saltar-hop
+respirar-breathe
+llorar-cry
+oler-smell
+tocar-tap
+abrazar-embrace
+soltar-release
+maternidad-maternity
+paternidad-paternity
+cadáver-corpse
+tumba-grave
+dar a luz-giving birth
+fallecer-die
+enterrar-bury
+incinerar-incinerate
+sentimiento-feeling
+amor-love
+amistad-friendship
+estar aburrido-be bored
+estar asustado-be scared
+estar estresado-be strassed
+estar deprimido-be depressed
+estar enamorado-be in love
+alegrarse-rejoice
+divertirse-have fun
+enamorarse-fell in love
+aburrirse-get bored
+deprimirse-get depressed
+enfadarse-get angry
+ponerse triste-get sad
+ponerse contento-get happy
+no soportar-not bear
+ser atento-be attentive
+actuar correctamente-act correctly
+cónyuge-spouse
+cuñado-brother in law
+suegro-father in law
+yerno-son in law
+nuera-daughet in law
+bisabuelo-great grandfather
+tatarabuelo-great grandfather
+mellizos-twins
+trillizos-triplets
+madre de alquiler-surrogate mother
+niño probeta-test tube child
+familiar lejano-familiar distant
+familia numerosa-large family
+hijo adoptivo-adoptive son
+niño huérfano-orphaned child
+maternidad-maternity
+paternidad-paternity
+rica-rich
+trabajadora-hardworking
+humilde-humble
+reñir-quarrel
+pelearse-fight
+educar(se)-educate
+crecer-grow
+quedarse huérfano-become an orphan
+heredar-inherit
+hacer testamento-make a will
+ayunar-fast
+tener apetito- have an appetite
+devorar-devour
+digerir-to digest
+batalla-battle
+fusil-rifle
+bala-bullet
+espada-sword
+enemigo-enemy
+aliado-ally
+submarino-submarine
+tanque-tank
